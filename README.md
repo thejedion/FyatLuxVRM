@@ -1,3 +1,3 @@
 # FyatLuxVRM
 
-https://raw.githubusercontent.com/thejedion/FYATLUXVRM/Main/Indigo_7866_basic.vrm
+https://raw.githubusercontent.com/thejedion/FYATLUXVRM/Main/Indigo7866basic.vrm
