@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/Alee7779Basic.vrm
 https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/Slugger5862Basic.vrm
 https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/Xenoskull4060.vrm
 https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/Mimomi0949Basic.vrm
+https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/R4Z3R5750Basic.vrm
 
 
 
