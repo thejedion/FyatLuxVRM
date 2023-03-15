@@ -18,13 +18,17 @@ https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/Justyce4986basic.vrm
 https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/Flynsky3562Basic.vrm
 https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/G2LN3332Basic.vrm
 https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/sparkman7458Basic.vrm
-
-
-
 https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/LouisTull2530Basic.vrm
 https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/AgentJ3222Basic.vrm
 https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/Maxabt386Basic.vrm
 https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/LilD3670Basic.vrm
+
+https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/6699_tpose.vrm
+https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/851_tpose.vrm
+https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/4673_tpose.vrm
+https://raw.githubusercontent.com/thejedion/FyatLuxVRM/main/4732_tpose.vrm
+
+
 
 
 
